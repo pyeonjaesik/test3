@@ -1,5 +1,9 @@
-red
+:red
 blue
 y
 q
+<<<<<<< HEAD
 develop
+=======
+hot3
+>>>>>>> origin/hot3
